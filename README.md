@@ -19,7 +19,11 @@ Ensures at least one character type is selected.
 ## Example Output
 
 How long should the password be? 12
+
 Should it include uppercase letters? (yes/no): yes
+
 Should it include numbers? (yes/no): yes
+
 Should it include special characters? (yes/no): yes
+
 Here is your secure password: A8s@kd!Pz2Lq
