@@ -1,10 +1,10 @@
 # python-project
 
-Description
+##Description
 
 This Python script generates a secure password based on user-defined criteria, such as length and character types (uppercase, numbers, and special characters).
 
-Features
+##Features
 
 User input for password length.
 
@@ -16,27 +16,7 @@ Option to include special characters.
 
 Ensures at least one character type is selected.
 
-Requirements
-
-Python 3.x
-
-Installation
-
-Download the script manually or copy the code into a new Python file.
-
-Navigate to the project directory:
-
-cd path/to/directory
-
-Usage
-
-Run the script using:
-
-python password_generator.py
-
-Then follow the on-screen prompts to customize your password.
-
-Example Output
+##Example Output
 
 How long should the password be? 12
 Should it include uppercase letters? (yes/no): yes
